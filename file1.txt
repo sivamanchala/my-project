@@ -1,1 +1,2 @@
 Hello this is a file1.txt file
+Adding a bug into file1.txt
